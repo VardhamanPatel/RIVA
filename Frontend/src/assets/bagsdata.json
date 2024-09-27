@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Leather Backpack",
+    "title": "Stylish and Durable Leather Backpack",
+    "price": 89.99,
+    "category": "BestSeller",
+    "image": "https://images.unsplash.com/photo-1448582649076-3981753123b5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 2,
+    "name": "Canvas Tote Bag",
+    "title": "Eco-Friendly Canvas Tote for Everyday Use",
+    "price": 24.99,
+    "category": "BestSeller",
+    "image": "https://images.unsplash.com/photo-1484527273420-c598cb0601f8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 3,
+    "name": "Vintage Messenger Bag",
+    "title": "Retro Messenger Bag with Multiple Compartments",
+    "price": 59.99,
+    "category": "BestSeller",
+    "image": "https://images.unsplash.com/photo-1479219136056-56bb6495a005?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 4,
+    "name": "Sporty Gym Bag",
+    "title": "Durable and Spacious Gym Bag",
+    "price": 34.99,
+    "category": "Best Seller",
+    "image": "https://images.unsplash.com/photo-1528384483229-b4a97480dbea?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 5,
+    "name": "Luxury Handbag",
+    "title": "Elegant Handbag for Special Occasions",
+    "price": 199.99,
+    "category": "Best Seller",
+    "image": "https://images.unsplash.com/photo-1547949003-9792a18a2601?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 6,
+    "name": "Travel Duffel Bag",
+    "title": "Spacious Duffel Bag for All Your Travel Needs",
+    "price": 49.99,
+    "category": "Travel Bags",
+    "image": "https://images.unsplash.com/photo-1598532163257-ae3c6b2524b6?q=80&w=1963&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 7,
+    "name": "Laptop Sleeve Bag",
+    "title": "Protective Sleeve for Laptops up to 15 inches",
+    "price": 29.99,
+    "category": "Laptop Bags",
+    "image": "https://images.unsplash.com/photo-1691480250099-a63081ecfcb8?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 8,
+    "name": "Mini Backpack",
+    "title": "Trendy Mini Backpack for Casual Outings",
+    "price": 39.99,
+    "category": "Backpacks",
+    "image": "https://images.unsplash.com/photo-1691480250099-a63081ecfcb8?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 9,
+    "name": "Stylish Crossbody Bag",
+    "title": "Compact Crossbody Bag for Daily Essentials",
+    "price": 44.99,
+    "category": "Crossbody Bags",
+    "image": "https://images.unsplash.com/photo-1691480250099-a63081ecfcb8?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 10,
+    "name": "Waterproof Beach Bag",
+    "title": "Spacious and Waterproof Bag for Beach Days",
+    "price": 39.99,
+    "category": "Beach Bags",
+    "image": "https://images.unsplash.com/photo-1691480250099-a63081ecfcb8?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  }
+]

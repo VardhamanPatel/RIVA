@@ -3,7 +3,7 @@ import React from "react";
 function HeroSection() {
   return (
     <>
-      <div className=" max-w-screen-2xl h-screen container mx-auto md:px-5 px-4 flex flex-col md:flex-row  bg-black my-20">
+      <div className=" max-w-screen-2xl container mx-auto md:px-5 px-4 flex flex-col md:flex-row  bg-black my-20 text-white">
         <div className=" order-2 md:order-1 w-full md:w-1/2 mt-12  md:mt-32">
           <div className=" space-y-12 ">
             <h1 className="text-2xl">
@@ -29,7 +29,7 @@ function HeroSection() {
               <input type="text" className="grow" placeholder="Email" />
             </label>
 
-            <button className="px-5 py-2 rounded-lg text-black font-medium bg-white">Secondary</button>
+            <button className="px-6 py-2 rounded-full text-black font-medium bg-white">Sumit</button>
           </div>
         </div>
         <div className=" order-1 w-full md:w-1/2 mt-12  md:mt-32 ">
