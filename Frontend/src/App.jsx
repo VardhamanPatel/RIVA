@@ -1,20 +1,18 @@
-import React from 'react'
-import Navbar from './components/Navbar'
-import HeroSection from './components/HeroSection'
-import Footer from './components/Footer'
-import BasicBags from './components/BasicBags'
+import React from 'react';
+import Home from './Home/Home';
+import Products from './Products/Products';
+import Signup from './components/Signup';
+import { Route, Routes } from "react-router-dom";
 
 function App() {
   return (
-    <>
-    <Navbar />
-    <HeroSection />
-    <BasicBags />
-    <Footer />
-
-    
-    </>
-  )
+    <Routes>
+      <Route path="/" element={<Home />} />
+      <Route path="/product" element={<Products />} /> {/* Changed to plural for consistency */}
+      <Route path="/signup" element={<Signup />} />
+      <Route path="*" element={<h2>404 Not Found</h2>} /> {/* Fallback for 404 */}
+    </Routes>
+  );
 }
 
-export default App
+export default App;
